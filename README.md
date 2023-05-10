@@ -1,2 +1,1 @@
-# Prueba2
-Pracitca commit
+Esta prueba es un repositorio para saber como copiar un commit a mi escritorio
